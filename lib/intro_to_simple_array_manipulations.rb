@@ -31,5 +31,8 @@ def using_insert(array, element)
   #insert syntax arr.insert(index, object)
 end
 
+def using_uniq(array)
+  array.uniq 
+end
 
   
