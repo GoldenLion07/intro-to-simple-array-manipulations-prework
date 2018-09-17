@@ -33,6 +33,8 @@ end
 
 def using_uniq(array)
   array.uniq 
+  #removes duplicates of any items in an array 
 end
 
+def using_flatten(array)
   
