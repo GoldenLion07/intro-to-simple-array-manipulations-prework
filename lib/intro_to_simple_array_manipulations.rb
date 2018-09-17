@@ -28,5 +28,8 @@ end
 
 def using_insert(array, element)
   array.insert(4, element)
+  #insert syntax arr.insert(index, object)
 end
+
+
   
